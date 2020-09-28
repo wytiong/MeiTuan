@@ -7,6 +7,9 @@ import './assets/js/rem.js'
 import './assets/icon/iconfont.css'
 import Vant from 'vant'
 Vue.use(Vant);
+// import {Tab,Tabs} from 'vant'
+// Vue.use(Tab);
+// Vue.use(Tabs);
 import 'vant/lib/index.css'
 
 
